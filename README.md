@@ -2,6 +2,7 @@
 
 RPEM is a STEM project, providing a flexible Remote Power Energy Monitor SDK for your Solar/Wind/Battery/Inverter System.
 
+UPDATE: 20th April 2026.  This evaluation board is no longer supported.
 
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2022/05/RPEM-v1-Remote-Power-Energy-Monitor-SDK-Connections-scaled.jpg?raw=true)
 
